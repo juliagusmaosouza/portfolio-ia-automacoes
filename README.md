@@ -9,10 +9,8 @@ Ferramentas que desenvolvi em Google Apps Script, HTML, CSS e JavaScript com apo
 
 ## Ferramentas
 
-Google Apps Script, JavaScript, HTML, CSS, Claude, ChatGPT
+Google Apps Script, JavaScript, HTML, CSS, Claude
 
 ## Como usei IA
 
 Não tenho formação em programação. Eu descrevia o problema e o fluxo de negócio, pedia o código por partes, testava nas planilhas e ajustava os prompts até funcionar.
-
-Repositório organizado com apoio do Claude Code (higienização dos dados e documentação).
